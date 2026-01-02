@@ -1,6 +1,9 @@
 # 🎙️ Voice of the Unregistered
 
-*A project by Murtaza StoveWala, AbdulQadir BearingWala, & Ibrahim HatodWala*
+[![Author](https://img.shields.io/badge/Author-Murtaza%20StoveWala-cyan)](https://www.linkedin.com/in/murtaza-stove-wala-b58921299/)
+[![Author](https://img.shields.io/badge/Author-AbdulQadir%20BearingWala-blue)](https://www.linkedin.com/in/abdulqadir-bearingwala/)
+[![Author](https://img.shields.io/badge/Author-Ibrahim%20HatodWala-green)](https://www.linkedin.com/in/ibrahim-hatodwala/)
+
 
 ## Bridging the Gap Between Eligibility and Access to Government Schemes
 
